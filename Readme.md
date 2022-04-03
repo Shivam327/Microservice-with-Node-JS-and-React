@@ -2,7 +2,9 @@
 
 <br/>
 
-## How to run project in development mode (current version)
+## Readme Coming Soon...
+
+<!-- ## How to run project in development mode (current version)
 
 <br/>
 
@@ -173,3 +175,4 @@ $ curl \
 <br/>
 
 ---
+ -->
